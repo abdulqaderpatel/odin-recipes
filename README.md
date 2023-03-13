@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website that has a couple links for the user to click and see different kinds of recipes in html. It makes use of links, images, unordered and ordered links, etc. Hope you like it!!
